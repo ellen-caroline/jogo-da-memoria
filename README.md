@@ -2,9 +2,9 @@
 Um divertido jogo da memória implementado em JavaScript, onde você pode desafiar e aprimorar suas habilidades de memorização. Os emojis adicionam um toque lúdico à experiência! 
 
 ### 📁 Estrutura de Arquivos
-index.html: O arquivo principal que define a estrutura da página do jogo.
-src/scripts: Contém a engine do jogo, responsável pela lógica e interatividade.
-src/styles: Inclui os arquivos CSS para o reset de estilos e o estilo principal do jogo.
+- index.html: O arquivo principal que define a estrutura da página do jogo.
+- src/scripts: Contém a engine do jogo, responsável pela lógica e interatividade.
+- src/styles: Inclui os arquivos CSS para o reset de estilos e o estilo principal do jogo.
 
 ### 🛠️ Tecnologias Utilizadas 
 HTML5 e CSS3: As tecnologias fundamentais para a construção da interface do jogo, proporcionando uma experiência interativa e agradável.
