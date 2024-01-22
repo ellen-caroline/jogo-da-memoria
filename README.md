@@ -1,3 +1,5 @@
+🚧em desenvolvimento🚧
+<br>
 # Jogo da Memória com Emojis >ᴗ<
 Um divertido jogo da memória implementado em JavaScript, onde você pode desafiar e aprimorar suas habilidades de memorização. Os emojis adicionam um toque lúdico à experiência! 
 
